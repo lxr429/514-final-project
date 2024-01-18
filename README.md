@@ -3,7 +3,7 @@
 ![image](https://github.com/lxr429/514-final-project/assets/148398210/4ade15ab-e782-40b6-b963-67291017b2ea)
 
 ## Part 2 - Sensor Device
-<img width="883" alt="image" src="https://github.com/lxr429/514-final-project/assets/148398210/5e001181-379b-4eb5-828f-1293993bfc7b">
+<img width="911" alt="image" src="https://github.com/lxr429/514-final-project/assets/148398210/6ec8aace-518f-4a26-8f5a-59f6165945db">
 
 
 ## Part 3 - Display Device
