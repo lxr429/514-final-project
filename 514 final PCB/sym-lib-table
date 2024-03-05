@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "Official XIAO ESP")(type "KiCad")(uri "${KIPRJMOD}/PCB_resources/514_KiCAD_DEMO.kicad_sym")(options "")(descr ""))
+)
