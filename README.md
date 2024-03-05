@@ -1,6 +1,5 @@
 # 514-final-project
 ## Part 1
-![image](https://github.com/lxr429/514-final-project/assets/148398210/4ade15ab-e782-40b6-b963-67291017b2ea)
 ![Slide1](https://github.com/lxr429/514-final-project/assets/148398210/c3bd3232-de26-419b-a9ac-5a9ae7b969f6)
 ![Slide2](https://github.com/lxr429/514-final-project/assets/148398210/3aebd5f4-e757-4acf-a097-68b7d8621d3c)
 ![Slide3](https://github.com/lxr429/514-final-project/assets/148398210/4ad2c1e4-0335-441f-9644-90fd74155684)
